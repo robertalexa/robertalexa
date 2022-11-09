@@ -1,4 +1,12 @@
-### Hi there 👋
+<div align="center">
+  <h3>💻 Full Stack Developer | 🇷🇴 Romanian 🇬🇧 British</h3>
+</div>
+
+<div align="center">
+
+![robertalexa's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertalexa&count_private=true&hide_border=true&bg_color=0c1117&show_icons=true&theme=material-palenight) ![robertalexa's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertalexa&langs_count=8&hide_border=true&bg_color=0c1117&theme=material-palenight&layout=compact)
+ 
+</div>
 
 <!--
 **robertalexa/robertalexa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
