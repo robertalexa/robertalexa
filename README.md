@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![robertalexa's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertalexa&count_private=true&hide_border=true&bg_color=0c1117&show_icons=true&theme=material-palenight) ![robertalexa's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertalexa&langs_count=8&hide_border=true&bg_color=0c1117&theme=material-palenight&layout=compact)
+![robertalexa's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertalexa&count_private=true&hide_border=true&bg_color=0c1117&show_icons=true&theme=city_lights) ![robertalexa's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertalexa&langs_count=8&hide_border=true&bg_color=0c1117&theme=city_lights&layout=compact)
  
 </div>
 
